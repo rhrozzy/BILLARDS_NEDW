@@ -1,6 +1,6 @@
 ###  <p style="text-align: center;">🎱 8 BALL BILLIARDS 🎱</p>
 
- <img src="https://github.com/rhrozzy/Billiard-finish/assets/93496560/430e41ef-0a4a-4fe6-9920-fa7a72debf7a">
+ <img src="https://github.com/rhrozzy/BILLARDS_NEDW/assets/93496560/20deb16c-3680-44a4-9f90-6b228d6846f1">
 
  #### <p style="color: rgb(141, 141, 141);">Tela inicial (Menu), onde é necessário apenas apertar o 'Start', para inicar o game</p>
  ---

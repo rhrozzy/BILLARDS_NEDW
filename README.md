@@ -1,6 +1,7 @@
 ###  <p style="text-align: center;">🎱 8 BALL BILLIARDS 🎱</p>
 
 <h2> <p style="color:rgba(174, 6, 6, 0.974);"> 🎮 Para jogar clique no botão abaixo: </p>
+ 
 [![Jogo](https://img.shields.io/website?label=Sinuca-by-rhuan&style=for-the-badge&url=https://rhrozzy.github.io/Billiard-finish/)](https://rhrozzy.github.io/Billiard-finish/) 
 
 
@@ -25,12 +26,17 @@
 ---
 ---
 </br>
-<img src="https://github.com/rhrozzy/Billiard-finish/assets/93496560/8317fd20-848a-4d71-aa85-542d54f31b08">
+<img src="https://github.com/rhrozzy/BILLARDS_NEDW/assets/93496560/b8f94e48-6bb6-44cc-b866-308967a8df2c">
 
 #### <p style="color: rgb(141, 141, 141);">Foi implementado uma barra onde ela mostra a força que será aplicada. Para aumentar a força é necessário que o player segure com o Botão Esquerdo até carregar a força desejada.</p>
 
 ---
 ---
+</br>
+<img src="https://github.com/rhrozzy/BILLARDS_NEDW/assets/93496560/2d218d6c-5c28-4d3d-a7eb-5374d7db5f9c">
+
+#### <p style="color: rgb(141, 141, 141);">Foi implementado um banco de dados, onde é armazenado a quantidade de bolas encaçapadas (sem deixar a bola branca cair mais de 2 vezes no buraco).</p>
+
 
 ### <p style="text-align: center;">📑 OBJETIVO 📑</p>
 

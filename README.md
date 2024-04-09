@@ -1,12 +1,15 @@
 ###  <p style="text-align: center;">🎱 8 BALL BILLIARDS 🎱</p>
 
+[![Jogo](https://img.shields.io/website?label=Sinuca-by-rhuan&style=for-the-badge&url=https://rhrozzy.github.io/Billiard-finish/)](https://rhrozzy.github.io/Billiard-finish/) 
+
+
  <img src="https://github.com/rhrozzy/BILLARDS_NEDW/assets/93496560/20deb16c-3680-44a4-9f90-6b228d6846f1">
 
  #### <p style="color: rgb(141, 141, 141);">Tela inicial (Menu), onde é necessário apenas apertar o 'Start', para inicar o game</p>
  ---
  ---
 <br/>
- <img src="https://github.com/rhrozzy/Billiard-finish/assets/93496560/15292d3f-fa93-45f0-aa3a-a0644d94885c">
+ <img src="https://github.com/rhrozzy/BILLARDS_NEDW/assets/93496560/f7498d12-4027-4cee-b8ae-c4e74d2e56dc">
 
  #### <p style="color: rgb(141, 141, 141);">Layout do jogo, quando ele é iniciado.</p> 
 
@@ -35,4 +38,3 @@
 ---
 <h2> <p style="color:rgba(174, 6, 6, 0.974);"> 🎮 Para jogar clique no botão abaixo: </p>
 
-[![Jogo](https://img.shields.io/website?label=Sinuca-by-rhuan&style=for-the-badge&url=https://rhrozzy.github.io/Billiard-finish/)](https://rhrozzy.github.io/Billiard-finish/) 

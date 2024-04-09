@@ -1,5 +1,6 @@
 ###  <p style="text-align: center;">🎱 8 BALL BILLIARDS 🎱</p>
 
+<h2> <p style="color:rgba(174, 6, 6, 0.974);"> 🎮 Para jogar clique no botão abaixo: </p>
 [![Jogo](https://img.shields.io/website?label=Sinuca-by-rhuan&style=for-the-badge&url=https://rhrozzy.github.io/Billiard-finish/)](https://rhrozzy.github.io/Billiard-finish/) 
 
 
@@ -36,5 +37,5 @@
 #### <p style="color: rgb(141, 141, 141);">O objetivo do jogo é encaçapar as bolas coloridas em sequência, começando pela bola de menor valor até a de maior valor. O jogo termina quando todas as bolas forem encaçapadas.</p> 
 ---
 ---
-<h2> <p style="color:rgba(174, 6, 6, 0.974);"> 🎮 Para jogar clique no botão abaixo: </p>
+
 
